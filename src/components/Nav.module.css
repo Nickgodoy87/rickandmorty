@@ -1,0 +1,20 @@
+.divNav{
+    background-color: blueviolet;
+    height: 9vh;
+}
+.contBtn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-right: 30rem;
+
+}
+.btn1{
+    margin-left: 50px;
+}
+.search{
+    display: flex;
+    justify-content: center;
+   
+}

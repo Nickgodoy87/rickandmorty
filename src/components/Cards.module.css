@@ -1,0 +1,10 @@
+.div {
+    height: 100vh;
+    width:99vw ;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    overflow: hidden;
+    margin-top: 10px;
+
+}

@@ -1,0 +1,51 @@
+.principal{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 70px;
+   
+    border-radius: 10px;
+    overflow: hidden;
+    width: 25%;
+    height: 70%;
+    margin-left: 30rem;
+    background-color: gray;
+}
+
+.user{
+    margin-bottom: 35px;
+    display: flex;
+    flex-direction: column;
+}
+.btn{
+    margin-top: 30px;
+}
+.image{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    display: block;
+}
+.texto{
+    color: black;
+    font-weight: bold;
+}
+.boton{
+    background-color: greenyellow;
+    color: black;
+    border-radius: 7px;
+    font-weight: bolder;
+}
+.inp{
+    color: black;
+}
+.errorEmail{
+    color: red;
+    font-weight: bold;
+    font-size: 11px;
+}
+.errorPass{
+    color: red;
+    font-weight: bold;
+    font-size: 11px;
+}

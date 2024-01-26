@@ -1,0 +1,26 @@
+.boton{
+   background-color: yellow;
+   border-radius: 3px;
+   font-size: 9px;
+   border: none;
+height: 3vh;
+width: 5vw;
+}
+.divFondo{
+    background-color: gray;
+    margin-left: 55rem;
+}
+.divInput{
+    margin-right: 45px;
+}
+.centrar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 35px;
+}
+.inp{
+    border-radius: 3px;
+    border: none;
+    
+}
